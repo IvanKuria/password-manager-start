@@ -1,0 +1,5 @@
+amazon | ivankuria7@gmail.com | 1234
+ebay | ivankuria7@gmail.com | 34636
+ | ivankuria7@gmail.com | 
+ebay | ivankuria7@gmail.com | 13214
+amazon | ivankuria7@gmail.com | 1234
